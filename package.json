@@ -1,0 +1,26 @@
+{
+  "name": "is-prime-number",
+  "version": "1.0.0",
+  "description": "A lightweight and efficient JavaScript utility for checking whether a given number is prime. Designed to be simple, fast, and easy to use as an npm package.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "dev": "node --watch ./index.js",
+    "start": "node ./index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Midhun-u/isPrimeNumber.git"
+  },
+  "keywords": [
+    "javascript",
+    "npm",
+    "prime number"
+  ],
+  "author": "midhun-u",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Midhun-u/isPrimeNumber/issues"
+  },
+  "homepage": "https://github.com/Midhun-u/isPrimeNumber#readme"
+}
