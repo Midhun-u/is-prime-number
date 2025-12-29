@@ -13,11 +13,13 @@ A simple and lightweight JavaScript package to check whether a number is prime. 
 
 # Installation
 
-`npm install is-prime-number`
+```bash
+npm install is-prime-number
+```
 
 
 # Usage
-
+```js
 
 
     import isPrimeNumber from 'is-prime-number'
@@ -34,7 +36,7 @@ A simple and lightweight JavaScript package to check whether a number is prime. 
     const valueFour = isPrimeNumber(10)
     console.log(valueFour) // false
 
-
+```
 
 
 
