@@ -22,7 +22,7 @@ npm install @midhun-u/is-prime-number
 ```js
 
 
-    import isPrimeNumber from 'is-prime-number'
+    import isPrimeNumber from '@midhun-u/is-prime-number'
 
     const valueOne = isPrimeNumber(2)
     console.log(valueOne) // true
