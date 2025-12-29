@@ -1,5 +1,5 @@
 {
-  "name": "is-prime-number",
+  "name": "@midhun-u/is-prime-number",
   "version": "1.0.0",
   "description": "A lightweight and efficient JavaScript utility for checking whether a given number is prime. Designed to be simple, fast, and easy to use as an npm package.",
   "main": "index.js",
