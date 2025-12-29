@@ -10,7 +10,7 @@ const isPrimeNumber = (number) => {
         throw new Error("The value should be a number")
     }
 
-    if (number === 1 || number <= 0) {
+    if (number <= 1) {
         return false
     }
 
