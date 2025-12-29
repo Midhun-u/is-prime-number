@@ -14,7 +14,7 @@ A simple and lightweight JavaScript package to check whether a number is prime. 
 # Installation
 
 ```bash
-npm install is-prime-number
+npm install @midhun-u/is-prime-number
 ```
 
 
