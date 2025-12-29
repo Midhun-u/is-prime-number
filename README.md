@@ -18,7 +18,7 @@ A simple and lightweight JavaScript package to check whether a number is prime. 
 
 # Usage
 
-`
+
 
     import isPrimeNumber from 'is-prime-number'
 
@@ -35,7 +35,7 @@ A simple and lightweight JavaScript package to check whether a number is prime. 
     console.log(valueFour) // false
 
 
-`
+
 
 
 # ISC License
